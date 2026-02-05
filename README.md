@@ -39,8 +39,6 @@ Music-Player/
 
 ##Technologies Used
 
----
-
 HTML5 – Structure of the web application
 
 CSS3 – Styling and responsive layout
