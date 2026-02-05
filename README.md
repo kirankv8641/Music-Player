@@ -4,7 +4,7 @@ Music Player is a responsive web application that allows users to play, pause, a
 The application is lightweight, user-friendly, and works seamlessly across devices.
 
 🎧 Let’s vibe :- Play your favorite tracks now
-
+---
 Table of Contents
 
 Features
