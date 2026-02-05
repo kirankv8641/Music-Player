@@ -1,5 +1,5 @@
 
-##🎵 Music Player
+#🎵 Music Player
 
 ---
 
@@ -10,7 +10,7 @@ The application is lightweight, user-friendly, and works seamlessly across devic
 
 ---
 
-##Features
+**Features**
 
 Play / Pause Music: Control audio playback easily.
 
@@ -24,7 +24,8 @@ Clean UI: Simple and modern music player interface.
 
 ---
 
-##Project Structure
+**Project Structure**
+
 ~~~
 Music-Player/
 │
@@ -37,7 +38,7 @@ Music-Player/
 ~~~
 ---
 
-##Technologies Used
+**Technologies Used**
 
 
 HTML5 – Structure of the web application
@@ -49,7 +50,8 @@ JavaScript (Vanilla JS) – Audio controls and interactivity
 ---
 
 ---
-##Usage
+
+**Usage**
 
 Open index.html in your browser.
 
@@ -64,7 +66,8 @@ Track the song progress using the progress bar.
 Enjoy your music 🎶
 
 ---
-Future Improvements
+
+**Future Improvements**
 
 Add playlist support.
 
@@ -77,7 +80,7 @@ Introduce dark/light mode.
 Improve UI animations and transitions.
 
 ---
-##Author
+**Author**
 
 Kiran Vishwakarma
 
