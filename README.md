@@ -62,6 +62,7 @@ Use Next / Previous buttons to change tracks.
 Track the song progress using the progress bar.
 
 Enjoy your music 🎶
+
 ---
 Future Improvements
 
@@ -74,6 +75,7 @@ Add volume control and mute option.
 Introduce dark/light mode.
 
 Improve UI animations and transitions.
+
 ---
 ##Author
 
@@ -82,5 +84,6 @@ Kiran Vishwakarma
 GitHub: https://github.com/kirankv8641
 
 LinkedIn: https://www.linkedin.com/in/kiran-vishwakarma98
+
 ---
 🎵 Music Player – Simple, smooth, and enjoyable music experience!
