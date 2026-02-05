@@ -1,23 +1,12 @@
 🎵 Music Player
+---
 
 Music Player is a responsive web application that allows users to play, pause, and switch between songs with a smooth and intuitive interface.
 The application is lightweight, user-friendly, and works seamlessly across devices.
 
 🎧 Let’s vibe :- Play your favorite tracks now
+
 ---
-Table of Contents
-
-Features
-
-Project Structure
-
-Usage
-
-Future Improvements
-
-Technologies Used
-
-Author
 
 Features
 
@@ -31,6 +20,7 @@ Responsive Design: Works well on mobile, tablet, and desktop.
 
 Clean UI: Simple and modern music player interface.
 
+---
 Project Structure
 Music-Player/
 │
@@ -39,7 +29,7 @@ Music-Player/
 ├─ script.js    # JavaScript for audio controls and logic
 ├─ assets/      # Songs and images
 └─ README.md    # Project documentation
-
+---
 Usage
 
 Open index.html in your browser.
@@ -66,6 +56,7 @@ Introduce dark/light mode.
 
 Improve UI animations and transitions.
 
+---
 Technologies Used
 
 HTML5 – Structure of the web application
@@ -73,7 +64,7 @@ HTML5 – Structure of the web application
 CSS3 – Styling and responsive layout
 
 JavaScript (Vanilla JS) – Audio controls and interactivity
-
+---
 Author
 
 Kiran Vishwakarma
@@ -81,5 +72,5 @@ Kiran Vishwakarma
 GitHub: https://github.com/kirankv8641
 
 LinkedIn: https://www.linkedin.com/in/kiran-vishwakarma98
-
+---
 🎵 Music Player – Simple, smooth, and enjoyable music experience!
