@@ -74,8 +74,7 @@ Add volume control and mute option.
 Introduce dark/light mode.
 
 Improve UI animations and transitions.
-
-
+---
 ##Author
 
 Kiran Vishwakarma
