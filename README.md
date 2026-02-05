@@ -21,7 +21,9 @@ Responsive Design: Works well on mobile, tablet, and desktop.
 Clean UI: Simple and modern music player interface.
 
 ---
+
 Project Structure
+
 Music-Player/
 │
 ├─ index.html   # Main UI of the music player
@@ -29,6 +31,7 @@ Music-Player/
 ├─ script.js    # JavaScript for audio controls and logic
 ├─ assets/      # Songs and images
 └─ README.md    # Project documentation
+
 ---
 Usage
 
