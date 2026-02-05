@@ -34,6 +34,16 @@ Music-Player/
 
 ~~~
 ---
+##Technologies Used
+
+HTML5 – Structure of the web application
+
+CSS3 – Styling and responsive layout
+
+JavaScript (Vanilla JS) – Audio controls and interactivity
+---
+
+---
 ##Usage
 
 Open index.html in your browser.
@@ -47,7 +57,7 @@ Use Next / Previous buttons to change tracks.
 Track the song progress using the progress bar.
 
 Enjoy your music 🎶
-
+---
 Future Improvements
 
 Add playlist support.
@@ -60,15 +70,7 @@ Introduce dark/light mode.
 
 Improve UI animations and transitions.
 
----
-##Technologies Used
 
-HTML5 – Structure of the web application
-
-CSS3 – Styling and responsive layout
-
-JavaScript (Vanilla JS) – Audio controls and interactivity
----
 ##Author
 
 Kiran Vishwakarma
