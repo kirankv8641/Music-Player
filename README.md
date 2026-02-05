@@ -1,4 +1,4 @@
-#🎵 Music Player
+##🎵 Music Player
 ---
 
 Music Player is a responsive web application that allows users to play, pause, and switch between songs with a smooth and intuitive interface.
